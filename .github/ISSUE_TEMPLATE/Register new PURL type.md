@@ -1,5 +1,5 @@
 ---
-name: Register new PURL type (draft)
+name: Register new PURL type
 about: Document requirements to register a new PURL type
 title: 'Register new PURL type: '
 labels: Proposed new type
