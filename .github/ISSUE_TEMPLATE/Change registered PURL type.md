@@ -1,5 +1,5 @@
 ---
-name: Change registered PURL type (draft)
+name: Change registered PURL type
 about: Document requirements to change a registered PURL type
 title: 'Change registered PURL type: '
 labels: PURL type change
