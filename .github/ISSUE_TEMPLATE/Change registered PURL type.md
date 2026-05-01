@@ -11,7 +11,7 @@ This is an issue template for proposing a *major* change or changes to the defin
 PURL type meaning a change to the structure of a `<purl-type>.definition.json` file.
 
 There are generally two levels of changes to a registered PURL type:
-- A *minor* changes such as an update or correction of the documentation of a PURL **type**
+- A *minor* change such as an update or correction of the documentation of a PURL **type**
 component or examples. *Minor* changes do not require the use of this issue template, but should
 be labeled "PURL type change".
 - A *major* change that affects the structure of the PURL **type** definition such as adding
